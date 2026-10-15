@@ -30,9 +30,7 @@ Especialidad: Combate cuerpo a cuerpo contra titanes
 #### Retrato del Capitán (Imagen Local)
 ![Retrato de Levi Ackerman](assets/mi-imagen.png)
 
-#### Centro de Reclutamiento e Instrucción (Imagen Externa Wikimedia)
-![Instituto de Formación](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/IES_El_Caminas_Castello.JPG/640px-IES_El_Caminas_Castello.JPG)
-
+#### Centro de Reclutamiento e Instrucción 
 ### Registro de Enfrentamientos Notables
 
 | Adversario | Ubicación | Resultado |
