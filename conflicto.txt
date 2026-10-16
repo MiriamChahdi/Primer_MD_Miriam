@@ -1,1 +1,1 @@
-texto para el conflicto jejeje
+Este es el texto cambiado en la rama segunda jeje
